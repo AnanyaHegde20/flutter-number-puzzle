@@ -62,8 +62,7 @@ flutter run
 flutter build apk --release
 build/app/outputs/flutter-apk/app-release.apk
 
-
-
+```
 # number_puzzle_flutter
 
 A new Flutter project.
